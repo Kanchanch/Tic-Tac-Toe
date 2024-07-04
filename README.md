@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-using javascript  Tic-Tac-Toe
+using JavaScript  Tic-Tac-Toe
