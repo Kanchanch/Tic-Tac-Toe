@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-using JavaScript  Tic-Tac-Toe
+self guide project
